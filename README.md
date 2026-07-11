@@ -8,6 +8,4 @@ Computer engineer in Manisa, Türkiye. I build mobile apps, break them on purpos
 
 **The pitch:** [absolutefermata.github.io](https://absolutefermata.github.io/) · **The model card (CV):** [absolutefermata.github.io/cv](https://absolutefermata.github.io/cv/)
 
-Pinned repos are the fair sample; the rest is archaeology.
-
 Contact: alikeremocal@gmail.com
